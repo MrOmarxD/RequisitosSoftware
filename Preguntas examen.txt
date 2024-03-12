@@ -1,0 +1,11 @@
+Diferencia entre modelo y proceso de software
+Dibujar el esqueda del proceso incremental y su mayor inconveniente o amenaza
+Ejemplo de una practica de ingenieria de software
+Etapas clasicas de ing sw y hacer un esquema
+Desde el punto de vista de aguilidad que tipo de poryecto es (elfante, caballo, conejo)
+
+Que hay que hacer siempre para obtener req
+Identificar los skh
+Que es un requisto
+
+RESPECTO A ole si es un requisto, si entra en el top ten por que define que entra en el sistema
