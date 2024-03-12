@@ -1,11 +1,18 @@
-Diferencia entre modelo y proceso de software
-Dibujar el esqueda del proceso incremental y su mayor inconveniente o amenaza
-Ejemplo de una practica de ingenieria de software
-Etapas clasicas de ing sw y hacer un esquema
-Desde el punto de vista de aguilidad que tipo de poryecto es (elfante, caballo, conejo)
+- Diferencia entre modelo y proceso de software
+El proxeso es el proceso por el cual las necesidades del usuario se traducen en un producto sw
+y el modelo es el maraco de un proceso, es una descripcion abstracta y simplificada de este.
 
-Que hay que hacer siempre para obtener req
-Identificar los skh
-Que es un requisto
+- Dibujar el esqueda del proceso incremental y su mayor inconveniente o amenaza
+- Ejemplo de una practica de ingenieria de software
+- Etapas clasicas de ing sw y hacer un esquema
 
-RESPECTO A ole si es un requisto, si entra en el top ten por que define que entra en el sistema
+- Desde el punto de vista de aguilidad que tipo de poryecto es (elfante, caballo, conejo)
+Conejo:aguil, interacion frecuente, incremento pequeño doc min, vida proy pequeña.
+Caballo: rapido, fuerte, proyectos corporativos, formalidad y orden, vida media.
+Elefante: solido, fuerte, larga vida, gran memoria.
+
+- Que hay que hacer siempre para obtener req
+- Identificar los skh
+- Que es un requisto
+
+- RESPECTO A ole si es un requisto, si entra en el top ten por que define que entra en el sistema
