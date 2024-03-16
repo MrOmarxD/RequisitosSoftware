@@ -1,5 +1,5 @@
 - Diferencia entre modelo y proceso de software
-El proxeso es el proceso por el cual las necesidades del usuario se traducen en un producto sw
+El proceso es el proceso por el cual las necesidades del usuario se traducen en un producto sw
 y el modelo es el maraco de un proceso, es una descripcion abstracta y simplificada de este.
 
 - Dibujar el esqueda del proceso incremental y su mayor inconveniente o amenaza
@@ -12,7 +12,20 @@ Caballo: rapido, fuerte, proyectos corporativos, formalidad y orden, vida media.
 Elefante: solido, fuerte, larga vida, gran memoria.
 
 - Que hay que hacer siempre para obtener req
+Consultar los skh, documentso que se manejan, dominio del sistema y estudio de mercado
+
 - Identificar los skh
+Personas que afectan o se ven afectadas por la existencia del producto software y se benefician 
+de su existencia.
+
 - Que es un requisto
+Descripción de las propiedades de un sistema, sus atributos y de cómo se debe comportar.
+Restringen el proceso de desarrollo de un sistema. 
+
+
+-Software
+Software: Instrucciones que cuando se ejecutan, proporcionan la función y comportamientos
+deseado. Las estructuras de datos facilitan a los programas a manipular la información y
+documentos.
 
 - RESPECTO A ole si es un requisto, si entra en el top ten por que define que entra en el sistema
